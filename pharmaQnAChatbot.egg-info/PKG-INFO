@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pharmaQnAChatbot
+Version: 0.0.1
+Author: mohamed sabith
+Author-email: mohamedsabith2@gmail.com
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv

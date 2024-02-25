@@ -1,0 +1,7 @@
+README.md
+setup.py
+pharmaQnAChatbot.egg-info/PKG-INFO
+pharmaQnAChatbot.egg-info/SOURCES.txt
+pharmaQnAChatbot.egg-info/dependency_links.txt
+pharmaQnAChatbot.egg-info/requires.txt
+pharmaQnAChatbot.egg-info/top_level.txt

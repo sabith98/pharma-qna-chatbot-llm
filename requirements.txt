@@ -1,0 +1,13 @@
+pandas
+langchain
+langchain-google-genai
+pillow
+python-dotenv
+streamlit
+tiktoken
+mysql-connector-python
+pymysql
+sentence_transformers
+chromadb
+
+-e .

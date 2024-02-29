@@ -1,6 +1,7 @@
 pandas
 langchain
 langchain-google-genai
+transformers
 pillow
 python-dotenv
 streamlit
@@ -10,4 +11,4 @@ pymysql
 sentence_transformers
 chromadb
 
--e .
+# -e .

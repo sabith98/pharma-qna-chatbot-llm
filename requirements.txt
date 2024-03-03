@@ -1,14 +1,14 @@
-pandas
-langchain
-langchain-google-genai
-transformers
-pillow
-python-dotenv
-streamlit
-tiktoken
-mysql-connector-python
-pymysql
-sentence_transformers
-chromadb
+chromadb==0.4.22
+langchain==0.1.9
+langchain-google-genai==0.0.9
+mysql-connector-python==8.3.0
+pandas==2.1.4
+pillow==10.2.0
+PyMySQL==1.0.3
+python-dotenv==1.0.0
+sentence-transformers==2.4.0
+streamlit==1.29.0
+tiktoken==0.5.2
+transformers==4.37.2
 
-# -e .
+-e .
